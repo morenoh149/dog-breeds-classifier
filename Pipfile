@@ -17,6 +17,7 @@ keras = "*"
 tensorflow = "*"
 "h5py" = "*"
 pillow = "*"
+"progressbar2" = "*"
 
 
 [dev-packages]
