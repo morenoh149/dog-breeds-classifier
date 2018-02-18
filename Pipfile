@@ -8,6 +8,15 @@ name = "pypi"
 [packages]
 
 jupyter = "*"
+matplotlib = "*"
+pandas = "*"
+tqdm = "*"
+scikit-learn = "*"
+scipy = "*"
+keras = "*"
+tensorflow = "*"
+"h5py" = "*"
+pillow = "*"
 
 
 [dev-packages]
